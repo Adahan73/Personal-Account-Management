@@ -1,0 +1,4 @@
+PersonalAccount Management System - Documentation
+Overview:
+This project implements a simple personal account management system using Java. It allows users to perform basic banking operations, such as depositing and withdrawing money, and viewing their transaction history. The system consists of three main components: the TransactionType enum, the Amount class, and the PersonalAccount class.
+
